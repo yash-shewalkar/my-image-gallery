@@ -1,18 +1,23 @@
-# My Image Gallery , A backend project 
-TECH STACK :
-  - NodeJS
-  - Express
-  - MongoDB, Mongoose
-  - Multer, UUID
-  - connect-flash
-  - path
-  - EJS
-  - express-session
-  - cookie-parser
-  - passport, pasport-local,  pasport-local-mongoose
-  - Masonry layout
+# My Image Gallery , A full stack Image Gallery Project
+## Features: 
+  - Create account
+  - Global Feed Page
+  - Upload your posts with captions
+  - Dynamic Masonry layout for the feed
     
-*UI is refered from Codepen website <a href="https://codepen.io/">Codepen website</a> 
+## Tech Stack:
+| Category         | Technologies Used                                      |
+|-----------------|-------------------------------------------------------|
+| Backend         | NodeJS, Express                                       |
+| Database        | MongoDB, Mongoose                                    |
+| Authentication  | passport, passport-local, passport-local-mongoose    |
+| Middleware      | express-session, cookie-parser, connect-flash        |
+| File Handling   | Multer, UUID                                         |
+| Template Engine | EJS                                                 |
+| Utilities      | path                                                 |
+| UI Layout      | Masonry layout (from  <a href="https://codepen.io/">Codepen website</a> )                        |
+
+
 
 
 # This are some glimpse of my image gallery
